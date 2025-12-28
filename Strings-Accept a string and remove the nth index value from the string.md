@@ -32,3 +32,4 @@ print(remove(s, n))
 
 
 ## Result
+Thus, the given program has been executed successfully and the character at the specified index is removed from the string.
