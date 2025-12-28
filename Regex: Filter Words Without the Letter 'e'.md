@@ -25,5 +25,6 @@ print(l1)
 ```
 ## Output
 <img width="279" height="44" alt="image" src="https://github.com/user-attachments/assets/909fce60-1a8d-4d12-a381-a0844f17acf5" />
+
 ## Result
 Thus, the given program has been executed successfully and the words that do not contain the letter 'e' are filtered using regular expressions.
